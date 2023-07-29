@@ -1,0 +1,36 @@
+.nav {
+  background-color: aqua;
+}
+.nav li {
+  color: red;
+}
+header {
+  color: #5b83ad;
+}
+footer {
+  background-color: red;
+  padding: 100px;
+}
+.footer-btn {
+  color: blueviolet;
+  border-radius: 10px;
+  border: none;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 200px;
+  padding: 10px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.footer-btn:hover {
+  cursor: pointer;
+  color: white;
+  max-width: 200px;
+  background-color: black;
+}
+body {
+  background-color: black;
+}
